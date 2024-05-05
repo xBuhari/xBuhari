@@ -2,7 +2,6 @@
 
 I'm Buhari (18 yo), I live in Kutahya/Turkey. I work on creating plugins and APIs for Minecraft, as well as developing applications in various programming languages on both Windows and Linux platforms.
 
-🎆 Owner on [CapeNetwork Game Services](https://capenw.org)!    
 🎆 Administrator on [MC-TR](https://mc-tr.com)! 
 
 <h3 align="left">Languages and Tools:</h3>
